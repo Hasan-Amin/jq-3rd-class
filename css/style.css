@@ -1,0 +1,71 @@
+#draggable { 
+	width: 150px; 
+	height: 150px; 
+	padding: 0.5em; 
+	border: 2px solid;
+}
+
+
+
+  #draggable1 { 
+  	width: 100px; 
+  	height: 100px; 
+  	padding: 0.5em; 
+  	float: left; 
+  	margin: 10px 10px 10px 0; 
+  }
+  #droppable { 
+  	width: 150px; 
+  	height: 150px; 
+  	padding: 0.5em; 
+  	float: left; 
+  	margin: 10px; 
+  }
+
+
+
+  #resizable { 
+  	width: 150px; 
+  	height: 150px; 
+  	padding: 0.5em; 
+  }
+  #resizable h3 { 
+  	text-align: center; 
+  	margin: 0; 
+  }
+
+
+
+
+
+
+    .ui-controlgroup-vertical {
+      width: 150px;
+    }
+    .ui-controlgroup.ui-controlgroup-vertical > button.ui-button,
+    .ui-controlgroup.ui-controlgroup-vertical > .ui-controlgroup-label {
+      text-align: center;
+    }
+    #car-type-button {
+      width: 120px;
+    }
+    .ui-controlgroup-horizontal .ui-spinner-input {
+      width: 20px;
+    }
+
+
+
+
+
+  #progressbar {
+    margin-top: 20px;
+  }
+ 
+  .progress-label {
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+  }
+ 
+  .ui-dialog-titlebar-close {
+    display: none;
+  }
